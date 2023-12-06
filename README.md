@@ -10,4 +10,4 @@ We will not do any activity on GitHub under the name JustMCPE Network. Therefore
 
 **Contact:** [contact@borvn.com](mailto:contact@borvn.com)
 
-![JustMCPE-Logo](https://justmcpe.net/apps/main/public/assets/img/extras/header-logo.png)
+![JustMCPE-Logo](https://justmcpe.net/apps/main/public/assets/img/extras/rules-logo.png)
